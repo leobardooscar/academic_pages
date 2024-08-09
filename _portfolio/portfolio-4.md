@@ -1,6 +1,6 @@
 ---
 title: "&#10132; GUI Customization"
-excerpt: "ITESO University Library Web portal <br/><img src='/academic_pages/images/thn_front_vufind.png'>"
+excerpt: "ITESO University Library Web portal <br/><img src='../images/thn_front_vufind.png'>"
 collection: portfolio
 ---
 
@@ -11,5 +11,5 @@ collection: portfolio
 
 | Home      | Browse |
 | ----------- | ----------- |
-| ![Urban Heritage Protection Area](/academic_pages/images/thn_front_vufind.png )      | ![Urban Heritage Protection Area](/academic_pages/images/thn_browse_vufind.png )      |
+| ![Urban Heritage Protection Area](../../images/thn_front_vufind.png )      | ![Urban Heritage Protection Area](../../images/thn_browse_vufind.png )      |
 | [&#8594; Available online [here]](https://opac.biblio.iteso.mx/vufind/ "Front page").   | [&#8594; Available online [here] ](https://opac.biblio.iteso.mx/vufind/browse/ "Browse").        |
