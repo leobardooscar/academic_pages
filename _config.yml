@@ -14,7 +14,7 @@ name                     : &name "Leobardo Alcántara O."
 description              : &description "Web designer & Librarian"
 url                      : "https://leobardooscar.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "leobardooscar.github.io"
+repository               : "leobardooscar.github.io/academic_papers"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
