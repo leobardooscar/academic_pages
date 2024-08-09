@@ -1,6 +1,6 @@
 ---
 title: "&#10132; Geomatics"
-excerpt: "Mistletoe-infested trees. Inventory within an urban polygon.<br/><img src='../../images/thn_georeferenced_inventory_trees_A.png'>"
+excerpt: "Mistletoe-infested trees. Inventory within an urban polygon.<br/><img src='../images/thn_georeferenced_inventory_trees_A.png'>"
 collection: portfolio
 ---
 
