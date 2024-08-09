@@ -8,9 +8,9 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Leobardo Alcántara O."
+title                    : "Leobardo Alcantara O."
 title_separator          : "-"
-name                     : &name "Leobardo Alcántara O."
+name                     : &name "Leobardo Alcantara O."
 description              : &description "Web designer & Librarian"
 url                      : "https://leobardooscar.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -22,7 +22,7 @@ repository               : "leobardooscar.github.io"
 author:
   # Biographic information
   avatar           : "LOAO_CV_profile.png"
-  name             : "Leobardo Alcántara O."
+  name             : "Leobardo Alcantara O."
   bio              : "Web designer & Librarian"
   location         : "Mexico"
   employer         : "ITESO University"
