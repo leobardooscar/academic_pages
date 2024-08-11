@@ -6,7 +6,7 @@ collection: portfolio
 
 
 ###Academic repositories 
-+ DSpace repositories branding
++ DSpace repositories 
 
 | Home      | Browse |
 | ----------- | ----------- |

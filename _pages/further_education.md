@@ -28,7 +28,6 @@ author_profile: true
 
 + **2024** Transparency, Privacy and Security in Digital Environments. Institute of Transparency, Public Information and Protection of Personal Data of the State of Jalisco, ITEI.
 + **2010** Social controllership: Citizen's right to Accountability. ITESO University.
----
 
 ###   **Seminars & Workshops** &#10002;
 + **2024** 	Webinar on Social Networks & Public Sector. Institute of Transparency, Public Information and Protection of Personal Data of the State of Jalisco (ITEI;            Chihuahua Institute for Transparency and Access to Public Information (ICHITAIP). 

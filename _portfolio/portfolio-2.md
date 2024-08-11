@@ -4,6 +4,8 @@ excerpt: "University Historical Photograph Collection <br/><img src='../images/t
 collection: portfolio
 ---
 
+### **University Historical Photograph Collection**
+
 | ITESO University Academic Repository      | Universities Entrusted to the Society of Jesus In Latin America Repository |
 | ----------- | ----------- |
 | ![Urban Heritage Protection Area](../../images/thn_front_archivo_iteso_1.png )      | ![Urban Heritage Protection Area](../../images/thn_front_archivo_iteso_2.png )      |

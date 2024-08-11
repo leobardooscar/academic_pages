@@ -335,4 +335,4 @@ compress_html:
     envs: development
 
 #Fixes the error: "GitHub Metadata: No GitHub API authentication could be found".
-#github: [metadata]
+github: [metadata]

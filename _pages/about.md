@@ -19,7 +19,7 @@ leobardo@iteso.mx
 
 ---
 
-## &#10132; Academic degrees
+## &#10132; Education
 
 
 + **1996**	B.A. in Communication Sciences - ITESO University, Guadalajara México.
@@ -46,8 +46,52 @@ leobardo@iteso.mx
 + Work comfortably with Windows, Mac, or Linux.
 
 ## Communication &#10002;
++ Translate user needs into system features or customize system functionalities to accomplish user needs.
 + Facilitate effective and meaningful communication, by mediating the request and response process between developers, staff, and end users of online information systems.
++ Improve User Experience (UX) through Usability testing.
 
+<!-- 
+<style>
+.column {
+    float: left;
+    padding: 10px;
+    width: 45%;
+}
+
+/* Clear floats after the columns */
+.row:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+</style>
+
+<div class="row">
+
+<div class="column">
+<h2>Communication</h2>
+<ul class="ul-interests">
+<li>Translate user needs into system features or customize system functionalities to accomplish user needs.</li>
+<li>Facilitate effective and meaningful communication, by mediating the request-and-answer process among developers, staff, and final users of Online Information Systems.</li>
+<li>Improve User Experience (UX) through Usability testing.</li>
+</ul>
+</div>
+
+<div class="column">
+<h2>Technical</h2>
+<ul class="ul-edu fa-ul">
+<li>Web content administration with Drupal & WordPress. </li>
+<li> Documentation of projects and procedures. </li>
+<li> GUI customization (theming) of Repositories, Catalogs & Integrated Library Systems like Aleph, DSpace & Vufind. </li>
+<li> Work comfortably with Windows, Mac, or Linux. </li>
+<li>
+<i class="fa fa-mortar-board"></i> BS in Biology, 1988, Stanford University
+</li>
+
+</ul>
+</div>
+</div>
+-->
 
 ## For more info
 

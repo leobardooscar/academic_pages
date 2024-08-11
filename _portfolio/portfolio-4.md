@@ -6,7 +6,7 @@ collection: portfolio
 
 
 ### Discovery Search
-+ Online Public Access Catalog Discovery Search
++ Online Public Access Catalog (OPAC) Discovery Search service.
 + Vufind 
 
 | Home      | Browse |
