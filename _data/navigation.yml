@@ -12,6 +12,9 @@ main:
 #  - title: "Teaching"
 #    url: /teaching/    
 
+  - title: "Expertise"
+    url: /expertise/
+
   - title: "Portfolio"
     url: /portfolio/
         

@@ -1,6 +1,6 @@
 ---
 title: "Further education"
-permalink: further/
+permalink: /further/
 author_profile: true
 ---
 

@@ -23,7 +23,6 @@ leobardo@iteso.mx
 
 ## &#10132; Education
 
-
 + **1996**	B.A. in Communication Sciences - ITESO University, Guadalajara México.
 + **2012**	M.A. in Communication of Science & Culture - ITESO University, Guadalajara México.
 
@@ -98,3 +97,13 @@ leobardo@iteso.mx
 ## For more info
 
 More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+
+## Other versions of this résumé:
+
++ [MkDocs + Material](https://leobardooscar.github.io/cv)
+
++ [Sphinx + Read the Docs](https://leobardooscar.github.io/cv_docs) 
+
++ [Bootstrap English v.](https://leobardooscar.github.io/portfolio) 
+
++ [Bootstrap Spanish/Español v.](https://leobardooscar.gitlab.io/portafolios) 
