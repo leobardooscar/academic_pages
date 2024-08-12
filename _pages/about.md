@@ -11,6 +11,8 @@ redirect_from:
 
 I was born on July 6th, 1972 in México City, CDMX (former D.F.). 
 
+I'm interested in Science, Technology, Politics & Human behaviour. I love Music, Cinema, Photography & Web design. 
+
 ## Contact
 
 leobardooscar@gmail.com
