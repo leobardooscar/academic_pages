@@ -9,7 +9,7 @@ redirect_from:
 
 <br />
 
-I was born on July 6th, 1972 in México City, CDMX (former D.F.). 
+I was born on July 6th, 1972 in México City, CDMX (former D.F.). "Where the air is clear"
 
 I'm interested in Science, Technology, Politics & Human behaviour. I love Music, Cinema, Photography & Web design. 
 
@@ -93,11 +93,6 @@ leobardo@iteso.mx
 </div>
 </div>
 -->
-
-## For more info
-
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
-
 ## Other versions of this résumé:
 
 + [MkDocs + Material](https://leobardooscar.github.io/cv)
@@ -107,3 +102,8 @@ More info about configuring Academic Pages can be found in [the guide](https://a
 + [Bootstrap English v.](https://leobardooscar.github.io/portfolio) 
 
 + [Bootstrap Spanish/Español v.](https://leobardooscar.gitlab.io/portafolios) 
+
+## For more info
+
+More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+
