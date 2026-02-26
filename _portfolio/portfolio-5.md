@@ -1,6 +1,6 @@
 ---
 title: "&#10132; GUI Customization"
-excerpt: "Academic repositories <br/><img src='../images/thn_front_ausjal.png'>"
+excerpt: "Academic repositories <br/><img src='../images/thn_front_rei.png'>"
 collection: portfolio
 ---
 

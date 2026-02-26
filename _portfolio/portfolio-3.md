@@ -1,13 +1,14 @@
 ---
 title: "&#10132; GUI & UX design"
-excerpt: "ITESO University Library Web portal <br/><img src='../images/thn_front_portal_biblioteca.png'>"
+excerpt: "University Historical Photograph Collection <br/><img src='../images/thn_front_archivo_iteso_1.png'>"
 collection: portfolio
 ---
 
-+ Library Web portal
-+ Drupal
+### **University Historical Photograph Collection**
 
-| Front A      | Front B |
+| ITESO University Academic Repository      | Universities Entrusted to the Society of Jesus In Latin America Repository |
 | ----------- | ----------- |
-| ![Urban Heritage Protection Area](../../images/thn_front_portal_biblioteca.png )      | ![Urban Heritage Protection Area](../../images/thn_front_portal_biblioteca_IEEE.png )      |
-| [&#8594; CV Boostrap version & Project Gallery [here] ](https://leobardooscar.github.io/portfolio/gui_ux.html "GUI & UX design works").   | [&#8594; CV Boostrap version & Project Gallery [here] ](https://leobardooscar.github.io/portfolio/gui_ux.html "GUI & UX design works").        |
+| ![Urban Heritage Protection Area](../../images/thn_front_archivo_iteso_1.png )      | ![Urban Heritage Protection Area](../../images/thn_front_archivo_iteso_2.png )      |
+| [&#8594; More images on Adobe Portfolio [here]](https://leobardooscar.myportfolio.com/university-historic-photograph-collection "Behance portfolio ").   | [&#8594; More images on Adobe Portfolio [here]](https://leobardooscar.myportfolio.com/university-historic-photograph-collection "Behance portfolio ").        |
+
+
