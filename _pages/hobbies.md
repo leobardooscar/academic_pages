@@ -16,7 +16,7 @@ author_profile: true
 
 | En décembre 1999, MK2 Productions absorbe *Les Films du Carrosse*. |  The Ladd Company released Blade Runner in 1982.|    
 | ----------- | ----------- |
-|<figure markdown="span"> ![MK2 Films](../img/mk2_films_dark.png#only-dark) ![MK2 Films](../img/mk2_films_light.png#only-dark#only-light)<figcaption> Marin Karmitz </figcaption></figure>|<figure markdown="span">![The Ladd Company](../img/The_Ladd_Company_logo.png)<figcaption>+Founded in October of 1979 by a team of former Fox executives</figcaption></figure>|
+![MK2 Films](../images/mk2_films_light.png) |![The Ladd Company](../images/The_Ladd_Company_logo.png)|
     
 
 + [300 movies that Roger Ebert -website- consider worthy of beign called "great"  ](https://www.rogerebert.com/great-movies "RoberEbert.com").
@@ -54,10 +54,12 @@ Work in progress :-)
 
 + Cloud observation & appreciation
 
+    + [Clouds spotted in Guadalajara Jalisco Mexico](https://leobardooscar.github.io/clouds "Clouds spotted in Guadalajara Jalisco Mexico") 
+
+---
+
 
 ## &#10132; Photography
-
-+ [Clouds gallery ](https://leobardooscar.github.io/clouds "Clouds spotted in Guadalajara Jalisco, Mexico") 
 
 + [Flicker image showcase](https://www.flickr.com/people/loao/ "Flickr") 
 
@@ -74,6 +76,10 @@ Work in progress :-)
 
 ## &#10132; Dogs
 
+<pre>
+
+
+</pre>
 --- 
 
 
