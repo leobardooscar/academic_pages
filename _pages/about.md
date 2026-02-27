@@ -13,11 +13,11 @@ I was born on July 6th, 1972 in México City, CDMX (former D.F.). "Where the air
 
 I'm interested in Science, Technology, Politics & Human behaviour. I love Music, Cinema, Photography & Web design. 
 
-## Contact
+## &#10132; Contact
 
-leobardooscar@gmail.com
++ **leobardooscar@gmail.com**
 <br />
-leobardo@iteso.mx
++ **leobardo@iteso.mx**
 
 ---
 
@@ -93,17 +93,32 @@ leobardo@iteso.mx
 </div>
 </div>
 -->
-## Other versions of this résumé:
+
+## More versions of this résumé:
 
 + [MkDocs + Material](https://leobardooscar.github.io/cv)
 
 + [Sphinx + Read the Docs](https://leobardooscar.github.io/cv_docs) 
 
++ [Quarto](https://leobardooscar.github.io/quarto_docs) 
+
 + [Bootstrap English v.](https://leobardooscar.github.io/portfolio) 
 
 + [Bootstrap Spanish/Español v.](https://leobardooscar.gitlab.io/portafolios) 
 
-## For more info
+<br />
 
+---
+
+{% include admonition.html type="note" title="::: Update" body="&#9400; LOAO / February 2026. 	" %}
+
+
+
+
+<!--
+
+## For more info
 More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+
+-->
 

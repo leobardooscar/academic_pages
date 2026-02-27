@@ -8,11 +8,11 @@ author_profile: true
 
 + [Usr. profile on MUBI: 1,196 Ratings & Reviews, so far.](https://mubi.com/es/users/272774 "Online movie streaming service")
 
-**My favorite movies:**
+## **My favorite movies:**
 
-    + Les Quatro Cents Coupes.  François Truffaut (1959).
+   + Les Quatro Cents Coupes.  François Truffaut (1959).
 
-    + Blade Runner. Ridley Scott (1982).
+   + Blade Runner. Ridley Scott (1982).
 
 | En décembre 1999, MK2 Productions absorbe *Les Films du Carrosse*. |  The Ladd Company released Blade Runner in 1982.|    
 | ----------- | ----------- |
@@ -52,10 +52,13 @@ Work in progress :-)
 
 ## &#10132; Nephologist 
 
-+ Cloud observation & appreciation
++ Cloud observation & appreciation:
 
-    + [Clouds spotted in Guadalajara Jalisco Mexico](https://leobardooscar.github.io/clouds "Clouds spotted in Guadalajara Jalisco Mexico") 
-
+    
+   + [Clouds spotted in Guadalajara Jalisco Mexico: FRONT](https://leobardooscar.github.io/clouds_front "Go to Front page") 
+    
+   + [Clouds spotted in Guadalajara Jalisco Mexico: Collection Builder](https://leobardooscar.github.io/clouds "Collection Builder") 
+		
 ---
 
 
