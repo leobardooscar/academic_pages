@@ -10,7 +10,7 @@ collection: portfolio
 | Front V. 1      | Front V. 2 |
 | ----------- | ----------- |
 | ![Library Web Portal: Front](../../images/thn_front_portal_biblioteca_IEEE.png "Front page with IEEE services promotion")      | ![Library Web Poertal: Front](../../images/thn_front_portal_biblioteca.png "Front page" )      |
-| [Project Gallery -> HERE ](https://leobardooscar.github.io/portfolio/gui_ux.html "GUI & UX design works").   | [Project Gallery -> HERE ](https://leobardooscar.github.io/portfolio/gui_ux.html "GUI & UX design works").        |
+| [&#8594; Available on Internet Archive](https://web.archive.org/web/20190422142612/https://biblio.iteso.mx/ "Front").   | [&#8594; Available on Internet Archive](https://web.archive.org/web/20190422142612/https://biblio.iteso.mx/ "Front").        |
 
 **CMS: Drupal**
 
