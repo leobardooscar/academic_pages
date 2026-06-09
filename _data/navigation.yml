@@ -12,8 +12,8 @@ main:
 #  - title: "Teaching"
 #    url: /teaching/    
 
-  - title: "Expertise"
-    url: /expertise/
+#  - title: "Expertise"
+#    url: /expertise/
 
   - title: "Portfolio"
     url: /portfolio/
@@ -28,8 +28,8 @@ main:
   - title: "Hobbies"
     url: /hobbies/
 
-  - title: "CV"
-    url: /cv/
+  # - title: "CV"
+  #  url: /cv/
     
  # - title: "Guide"
  #   url: /markdown/

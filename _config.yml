@@ -10,7 +10,7 @@
 locale                   : "en-US"
 title                    : "Leobardo Alcántara O."
 title_separator          : "-"
-name                     : &name "Leobardo Alcántara O."
+name                     : &name "Leobardo Oscar Alcántara Ocana"
 description              : &description "Web designer & Librarian"
 url                      : "https://leobardooscar.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "/academic_pages" # the subpath of your site, e.g. "/blog"
@@ -27,13 +27,13 @@ author:
   location         : "Mexico"
   employer         : "ITESO University"
   uri              : # URL
-  email            : "leobardo@iteso.mx" 
-
+  email            : "leobardooscar@gmail" 
+  
   # Academic websites
   #arxiv            : # URL - Update with the correct link to your profile
   # googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
   impactstory       : # URL 
-  orcid             : "http://orcid.org/yourorcidurl"
+  # orcid             : "http://orcid.org/yourorcidurl"
   semantic          : # URL
   # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   # researchgate     : # URL
@@ -71,6 +71,7 @@ author:
   xing             : # Username
   youtube          : "LeobardoOscar"
   zhihu            : # URL
+ 
 
 
 # Site Settings

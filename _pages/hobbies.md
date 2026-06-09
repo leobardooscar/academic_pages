@@ -8,15 +8,15 @@ author_profile: true
 
 + [Usr. profile on MUBI: 1,196 Ratings & Reviews, so far.](https://mubi.com/es/users/272774 "Online movie streaming service")
 
-**My favorite movies:**
+## **My favorite movies:**
 
-    + Les Quatro Cents Coupes.  François Truffaut (1959).
+   + Les Quatro Cents Coupes.  François Truffaut (1959).
 
-    + Blade Runner. Ridley Scott (1982).
+   + Blade Runner. Ridley Scott (1982).
 
 | En décembre 1999, MK2 Productions absorbe *Les Films du Carrosse*. |  The Ladd Company released Blade Runner in 1982.|    
 | ----------- | ----------- |
-|<figure markdown="span"> ![MK2 Films](../img/mk2_films_dark.png#only-dark) ![MK2 Films](../img/mk2_films_light.png#only-dark#only-light)<figcaption> Marin Karmitz </figcaption></figure>|<figure markdown="span">![The Ladd Company](../img/The_Ladd_Company_logo.png)<figcaption>+Founded in October of 1979 by a team of former Fox executives</figcaption></figure>|
+![MK2 Films](../images/mk2_films_light.png) |![The Ladd Company](../images/The_Ladd_Company_logo.png)|
     
 
 + [300 movies that Roger Ebert -website- consider worthy of beign called "great"  ](https://www.rogerebert.com/great-movies "RoberEbert.com").
@@ -52,12 +52,17 @@ Work in progress :-)
 
 ## &#10132; Nephologist 
 
-+ Cloud observation & appreciation
++ Cloud observation & appreciation:
+
+    
+   + [Clouds spotted in Guadalajara Jalisco Mexico: FRONT](https://leobardooscar.github.io/clouds_front "Go to Front page") 
+    
+   + [Clouds spotted in Guadalajara Jalisco Mexico: Collection Builder](https://leobardooscar.github.io/clouds "Collection Builder") 
+		
+---
 
 
 ## &#10132; Photography
-
-+ [Clouds gallery ](https://leobardooscar.github.io/clouds "Clouds spotted in Guadalajara Jalisco, Mexico") 
 
 + [Flicker image showcase](https://www.flickr.com/people/loao/ "Flickr") 
 
@@ -73,6 +78,23 @@ Work in progress :-)
 --- 
 
 ## &#10132; Dogs
+
+<pre>
+
+I'm a dog person
+
+   .-------------.       .    .   *       *   
+  /_/_/_/_/_/_/_/ \         *       .   )    .
+ //_/_/_/_/_/_// _ \ __          .        .   
+/_/_/_/_/_/_/_/|/ \.' .`-o                    
+ |             ||-'(/ ,--'                    
+ |             ||  _ |                        
+ |             ||'' ||                        
+ |_____________|| |_|L                     hjm
+
+  JAZZ  (2015-2023)
+  KIRBY (2023-)
+</pre>
 
 --- 
 

@@ -1,12 +1,23 @@
 ---
-title: "&#10132; Geomatics"
-excerpt: "Mistletoe-infested trees. Inventory within an urban polygon. <img src='../images/thn_georeferenced_inventory_trees_A.png'>"
-collection: portfolio
+title: "&#10132; GUI & UX design"
+excerpt: "ITESO University Library Web portal <br/><br/><img src='../images/thn_front_portal_biblioteca.png'> <br/>"
+collection: portfolio  
 ---
-+ Esri - Storymaps
 
-| Guadalajara City Metropolitan Area  <br />  Each color represents an Administrative area. | Zapopan Downtown <br />  View of Study Area: Inventory of 2,500 trees.|
+## **Library Web portal**
+
+
+| Front V. 1      | Front V. 2 |
 | ----------- | ----------- |
-| ![Urban Heritage Protection Area](../../images/thn_georeferenced_inventory_trees_A.png )  <br /> [&#8594; Available at ArcGIS StoryMaps](https://www.arcgis.com/apps/StorytellingSwipe/index.html?appid=e02b45f5efb74b10a24bc7ad9f962b7f " ESRI ArcGis Story Maps").    | ![Urban Heritage Protection Area](../../images/thn_georeferenced_inventory_trees_B.png )   [&#8594; Available at ArcGIS StoryMaps](https://www.arcgis.com/apps/StorytellingSwipe/index.html?appid=e02b45f5efb74b10a24bc7ad9f962b7f " ESRI ArcGis Story Maps").   |
-| **Urban Heritage Protection Area**  <br /> Represented by the blue dotted line.   | **Study Area Zoom In**  <br /> Red trees are Mistletoe-infested.|
-| ![Urban Heritage Protection Area](../../images/thn_georeferenced_inventory_trees_C.png ) [&#8594; Available at ArcGIS StoryMaps](https://www.arcgis.com/apps/StorytellingSwipe/index.html?appid=e02b45f5efb74b10a24bc7ad9f962b7f " ESRI ArcGis Story Maps"). | ![Urban Heritage Protection Area](../../images/thn_georeferenced_inventory_trees_D.png )    [&#8594; Available at ArcGIS StoryMaps](https://www.arcgis.com/apps/StorytellingSwipe/index.html?appid=e02b45f5efb74b10a24bc7ad9f962b7f " ESRI ArcGis Story Maps").     |
+| ![Library Web Portal: Front](../../images/thn_front_portal_biblioteca_IEEE.png "Front page with IEEE services promotion")      | ![Library Web Poertal: Front](../../images/thn_front_portal_biblioteca.png "Front page" )      |
+| [&#8594; Available on Internet Archive](https://web.archive.org/web/20190422142612/https://biblio.iteso.mx/ "Front").   | [&#8594; Available on Internet Archive](https://web.archive.org/web/20190422142612/https://biblio.iteso.mx/ "Front").        |
+
+**CMS: Drupal**
+
+## More Images:
+
+   + **<a href="https://leobardooscar.myportfolio.com/library-web-portal" title="ADOBE Behance"> ADOBE Portfolio  &#8594; HERE </a>**
+
+## Gallery Projects:
+
+   + **<a href="https://leobardooscar.github.io/portfolio/gui_ux.html" title="HTML + Bootstrap Version"> Full Web Projects Gallery  &#8594; HERE </a>**

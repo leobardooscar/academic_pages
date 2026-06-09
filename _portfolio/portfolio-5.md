@@ -1,14 +1,22 @@
 ---
-title: "&#10132; GUI Customization"
-excerpt: "Academic repositories <br/><img src='../images/thn_front_ausjal.png'>"
+title: "&#10132; Geomatics"
+excerpt: "Mistletoe-infested trees. Inventory within an urban polygon. <br/><br/><img src='../images/thn_georeferenced_inventory_trees_A.png'>"
 collection: portfolio
 ---
++ **Esri - Storymaps**
 
-
-### Academic repositories 
-+ DSpace repositories 
-
-| Home      | Browse |
+| Guadalajara City Metropolitan Area  <br />  Each color represents an Administrative area. | Zapopan Downtown <br />  View of Study Area: Inventory of 2,500 trees.|
 | ----------- | ----------- |
-| ![REI Repository](../../images/thn_front_rei.png )      | ![Ausjal Repository](../../images/thn_front_ausjal.png)      |
-| [More images on Adobe Portfolio [here]](https://leobardooscar.myportfolio.com/academic-institutional-repository-v2 "Behance portfolio ").   | [More images on Adobe Portfolio [here]](https://leobardooscar.myportfolio.com/repository-of-the-association-of-universities-entrusted "GUI & UX design works").        |
+| ![Guadalajara Jalisco Metropolitan Area](../../images/thn_georeferenced_inventory_trees_A.png "Guadalajara Jalisco Metropolitan Area" )  <br /> [&#8594; Available at ArcGIS StoryMaps](https://www.arcgis.com/apps/StorytellingSwipe/index.html?appid=e02b45f5efb74b10a24bc7ad9f962b7f).    | ![Zapopoan Jalisco Downtown](../../images/thn_georeferenced_inventory_trees_B.png "Zapopan Jalisco Downtown" )   [&#8594; Available at ArcGIS StoryMaps](https://www.arcgis.com/apps/StorytellingSwipe/index.html?appid=e02b45f5efb74b10a24bc7ad9f962b7f).   |
+| **Urban Heritage Protection Area**  <br /> Represented by the blue dotted line.   | **Study Area Zoom In**  <br /> Red trees are Mistletoe-infested.|
+| ![Trees coverage](../../images/thn_georeferenced_inventory_trees_C.png "Trees coverage" ) [&#8594; Available at ArcGIS StoryMaps](https://www.arcgis.com/apps/StorytellingSwipe/index.html?appid=e02b45f5efb74b10a24bc7ad9f962b7f). | ![Urban Heritage Protection Area](../../images/thn_georeferenced_inventory_trees_D.png "Urban Heritage Protection Area" )    [&#8594; Available at ArcGIS StoryMaps](https://www.arcgis.com/apps/StorytellingSwipe/index.html?appid=e02b45f5efb74b10a24bc7ad9f962b7f " ESRI ArcGis Story Maps").     |
+
+**Platform: ArcGis Storymaps**
+
+## More Images:
+
+   + **<a href="https://leobardooscar.myportfolio.com/georerenced-inventory-of-urban-trees" title="ADOBE Behance"> ADOBE Portfolio  &#8594; HERE </a>**
+
+## Gallery Projects:
+
+   + **<a href="https://leobardooscar.github.io/portfolio/gui_ux.html" title="HTML + Bootstrap Version"> Full Web Projects Gallery  &#8594; HERE </a>**
